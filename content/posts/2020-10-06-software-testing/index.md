@@ -3,7 +3,7 @@ title: A Primer on Different Kinds of Tests
 author: Mitesh Shah
 date: 2020-10-06
 hero: ./images/hero.jpg
-excerpt: A primer on the different types of tests, testing strategies, and an explainer on L0 L1 L2 L3 Tests and a try to answer the question, What kind of test am I writing?
+excerpt: Discover different types of tests and testing strategies.
 ---
 
 I haven't been a developer for too long (yet) to justify or even explain the importance of well written tests, especially in your CI system, but over my experience in recent times, I have seen great tests helping me catch a lot of future headaches. That being said, while developing a service end-to-end, I got to see the different kinds of tests and testing strategies and I thought why not "blog my journey" on testing. So buckle up for a fun ride, into the land of testing.
